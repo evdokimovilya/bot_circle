@@ -13,7 +13,6 @@
 - Python 3.x
 
 ### Шаги установки
-
 1. Склонировать репозиторий
 2. Установить зависимости ``pip isntall -r requirements.txt```
 3. Создать файлик .env на основе файла .env_template, указав свои данные.
@@ -23,7 +22,7 @@
     1. Первый вариант с использованием метода getUpdates ```python manage.py runbot```
     2. Второй вариант с использованием вебхуков ```python manage.py runbot --webhook```
   
-## Как выгяядит наполнение
+## Как все это выглядит
 ![image](https://github.com/user-attachments/assets/0a3dd4a8-b6a8-4175-a1da-4b82657ac479|)
 ![image](https://github.com/user-attachments/assets/c73da55d-543a-42e0-8f3c-bf0d6c07c6fb)
 ![photo_2024-10-27_00-49-07](https://github.com/user-attachments/assets/c3bdd9f3-6ee9-479e-b165-02d692c64af0)
