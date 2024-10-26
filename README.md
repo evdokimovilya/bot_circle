@@ -14,7 +14,7 @@
 
 ### Шаги установки
 1. Склонировать репозиторий
-2. Установить зависимости ``pip isntall -r requirements.txt```
+2. Установить зависимости ```pip isntall -r requirements.txt```
 3. Создать файлик .env на основе файла .env_template, указав свои данные.
 4. Выполнить миагрции ```python manage.py migrate```
 5. Запустить djnago сервер ```python manage.py runserver```
