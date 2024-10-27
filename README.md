@@ -17,7 +17,7 @@
 2. Установить зависимости ```pip isntall -r requirements.txt```
 3. Создать файлик .env на основе файла .env_template, указав свои данные.
 4. Выполнить миагрции ```python manage.py migrate```
-5. Запустить djnago сервер ```python manage.py runserver```
+5. Запустить django сервер ```python manage.py runserver```
 6. Запустить бота
     1. Первый вариант с использованием метода getUpdates ```python manage.py runbot```
     2. Второй вариант с использованием вебхуков ```python manage.py runbot --webhook```
